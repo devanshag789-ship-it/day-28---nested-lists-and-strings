@@ -1,0 +1,4 @@
+Nested list: [['hello', 'world'], ['hello', 'world'], ['hello', 'world']]
+First inner list: ['hello', 'world']
+First word of first inner list: hello
+Joined string: hello world
